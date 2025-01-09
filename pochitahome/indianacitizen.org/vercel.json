@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/Man-Fights-For-AI-Dog's-Rights/",
+      "destination": "https://pochitaarticle.vercel.app/"
+    }
+  ]
+}
